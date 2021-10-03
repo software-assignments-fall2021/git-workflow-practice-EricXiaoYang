@@ -6,4 +6,5 @@ This article is interesting as it seems to focus on an area where Artificial Int
 The interesting part about this article is how it uses AI as almost a secondary stance. Usually, AI seems to be thrown directly at a problem as it uses data to try and find a solution. For example, automated cars are almost entirely reliant on AI to do all the heavy lifting. Here, however, AI serves as a side benefit, almost an optimizer instead of the direct solution. I think this article serves to remind us all not to be limited about the scope of AI, and to continually think about how we can apply these in marginal areas to receive large benefits and value for society as a whole. 
 
 
-
+## Comment from Jacob Harsch
+This article is really interesting because it isn't proposing any large-scale AI project that is overly complex, but rather points out that data that is already being collected could be harnessed as a tool to combat an important issue. The electrical grid management and usage of renewable resources is a difficult task to manage effectively, but by having technology take advantage of information we already have, it could be optimized to be more environmentally efficient. What is most interesting to me is how sometimes, just identifying how a software could be used and implemented is often more difficult than the actual creation process.
